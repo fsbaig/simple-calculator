@@ -19,3 +19,4 @@ if (answer.operator === "addition") {
 }else if (answer.operator === "divide"){
     console.log(answer.firstnumber/answer.secondnumber)
 }
+console.log("thankyou")
